@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         domain='dev-1bcnnbqqa6te5mok.us.auth0.com'
         clientId='XIy6JGCKc6U1tqL90TgaquBW5bo9PWFW'
         authorizationParams={{
-            redirect_uri: "http://localhost:5173"
+            redirect_uri: "https://fullstack-real-estate-omega.vercel.app"
         }}
         audience='http://localhost:8000'
         scope='openId profile email'
